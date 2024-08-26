@@ -1,0 +1,9 @@
+ol.custom-list > li::before {
+    content: " ★★★★";
+    margin-right: 5px;
+}
+
+body {
+    border: 2px solid black;
+    padding: 5px;
+}

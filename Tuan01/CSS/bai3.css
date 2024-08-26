@@ -1,0 +1,12 @@
+.image-container img {
+    width: 10%;
+    height: 15%;
+}
+cite {
+    padding-left: 10%;
+}
+
+body {
+    border: 2px solid black;
+    padding: 5px;
+}

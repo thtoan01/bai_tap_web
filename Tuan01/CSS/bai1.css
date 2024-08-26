@@ -1,0 +1,16 @@
+
+/*{
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+    */
+/* Trong HTML và CSS, bạn có thể định dạng phần viền và khung nội dung của một phần tử bằng cách sử dụng các thuộc tính sau*/
+div{
+    width: 400px; /*rộng*/
+    height: 700px; /*cao*/
+    border: 1px solid gainsboro; /*Định nghĩa độ dày, kiểu viền, màu*/
+    padding-left: 50px; /*khoảng cách nội dung và viền*/
+    margin: 50px; /* khoảng cách từ viền đến các phần tử bên ngoài*/
+    box-shadow: 4px 4px 3px gray, -4px -4px 3px gray; /*tạo bóng*/
+    border-radius: 10px; /* bo tròn góc với bán kính 10px*/
+}
